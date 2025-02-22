@@ -1,6 +1,6 @@
 Paradigm Shift by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+libre for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
 Dis bonjour à Nour, my first addition to HTML5 UP in more than a year (!!!).

@@ -1,4 +1,4 @@
-ajout de certaines lignes
+supprimer de certaines lignes
 pour tester le stash des fichiers non suivis
 
 

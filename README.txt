@@ -1,4 +1,7 @@
-Adding a new line
+ajout de certaines lignes
+pour tester le stash des fichiers non suivis
+
+
 html5up.net | @ajlkn
 libre for personal and commercial use under the CCA 3.0 license
 
